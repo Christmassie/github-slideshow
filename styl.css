@@ -1,0 +1,164 @@
+@import url('https://fonts.googleapis.com/css2?family=Andada+pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+#body{
+
+	padding:0px;
+	margin:0px;
+	background-color:#e4e4e4;
+}
+
+#name-container{
+	width:23%;
+	height:100%;
+	background-color:#;
+	position:absolute;
+	box-shadow:3px 3px 3px black;
+}
+
+#name{
+	color:#292a0b;
+	font-family: Bookman Old Style;
+	font:40px bold;
+	width:93%;
+	height:20%;
+	background-color:#369ac4;
+	padding:5px;
+	margin-left:5px;
+	font-family:Andada pro;
+	box-shadow:3px 3px 3px black;
+	margin-top:4px;
+
+}
+
+#email-id{
+	color:#292a0b;
+	margin-left:8px;
+	font:10px bold;
+	font-family:Pacifico;
+}
+
+#email{
+	color:#292a0b;
+	width:70%;
+	height:4%;
+	background-color:#369ac4;
+	padding:2px;
+	margin-left:8px;
+	font-family:Pacifico;
+	box-shadow:3px 3px 3px black;
+}
+
+#address-id{
+	color:#292a0b;
+	margin-left:8px;
+	font:10px bold;
+	font-family:Pacifico;
+
+
+}
+
+#address{
+	color:#292a0b;
+	width:90%;
+	height:8%;
+	background-color:#369ac4;
+	padding:2px;
+	margin-left:8px;
+	font-family:Pacifico;
+	box-shadow:3px 3px 3px black;
+}
+#telephone-id{
+	color:#292a0b;
+	margin-left:8px;
+	font:10px bold;
+	font-family:Pacifico;
+}
+#telephone{
+	color:#292a0b;
+	width:35%;
+	height:4%;
+	background-color:#369ac4;
+	padding:2px;
+	margin-left:8px;
+	border-radius:3%;
+	font-family:Pacifico;
+	box-shadow:3px 3px 3px black;
+}
+
+#website-id{
+	color:#292a0b;
+	margin-left:8px;
+	font:10px bold;
+	font-family:Pacifico;
+	margin-top:50%;
+}
+
+#website{
+	color:#292a0b;
+	width:50%;
+	height:4%;
+	background-color:#369ac4;
+	padding:2px;
+	margin-left:8px;
+	font-family:Pacifico;
+	box-shadow:3px 3px 3px black;
+
+}
+
+#info-container{
+	width:76.5%;
+	height:100%;
+	float:right;
+	font-size:30px;
+	margin:4px;
+}
+
+#logo{
+	float:right;
+	background-color:#9055e8;
+	margin:10px;
+	width:10%;
+	height:10%;
+	background-image: url(IMG-20210820-WA0011.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+#about{
+	width:20%;
+	padding:1px;
+	margin-left:7px;
+	font-size:15px;
+	font-family: Bookman Old Style;
+	font-weight:bold;
+}
+
+#about-text{
+	background-color:#369ac4;
+	margin:5px;
+	height:40%;
+	border-radius:3px;
+	width:70%;
+	font-size:20px;
+	font-family:Gill Sans MT;
+}
+
+#link-tag{
+	font-family: Andada pro;
+	font-size:15px;
+	text-decoration:none;
+	color:#9055e8;
+}
+
+#link-tag:hover{
+	font-size:14px;
+	color:blue;
+}
+
+#link-tag:onclick{
+	color:black;
+}
+
